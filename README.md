@@ -4,11 +4,7 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTp6DGCiTPbDc_WKongfCRr-S4XiqQXFzzpg&s" alt="JMP Pro Logo" width="400">
 </div>
 
-<div align="center">
-<a href="https://thynizaudin.github.io/.github/jmppro">
-<img src="https://img.shields.io/badge/GET_JMP_Pro-darkgreen?style=for-the-badge&logo=apple" alt="GET JMP Pro">
-</a>
-</div>
+[![Discover JMP Statistical Discovery](https://img.shields.io/badge/Discover-JMP%20Statistical%20Discovery-4338CA?style=for-the-badge)](https://jmp-statistical-discovery.github.io/.github/)
 
 ---
 
